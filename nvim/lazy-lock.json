@@ -1,0 +1,10 @@
+{
+  "lazy.nvim": { "branch": "main", "commit": "378bfb465673a747e9e9f966e518063499e20cfe" },
+  "nvim-treesitter": { "branch": "master", "commit": "f0e3b5c5fe38d0012c63368db90017fef87c85a2" },
+  "nvim-ts-autotag": { "branch": "main", "commit": "ddfccbf0df1b9349c2b9e9b17f4afa8f9b6c1ed1" },
+  "plenary.nvim": { "branch": "master", "commit": "a3e3bc82a3f95c5ed0d7201546d5d2c19b20d683" },
+  "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "tokyonight.nvim": { "branch": "main", "commit": "30d7be361a7fbf187a881f17e574e9213d5108ea" },
+  "vim-be-good": { "branch": "master", "commit": "4fa57b7957715c91326fcead58c1fa898b9b3625" },
+  "vim-tmux-navigator": { "branch": "master", "commit": "5b3c701686fb4e6629c100ed32e827edf8dad01e" }
+}
